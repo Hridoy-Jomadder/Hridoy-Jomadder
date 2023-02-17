@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://www.freelancerhridoyjomadder.com/](https://www.freelancerhridoyjomadder.com/)
 
-- 📫 How to reach me **contacthridoyjomadder**
+- 📫 How to reach me **contacthridoyjomadder@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
