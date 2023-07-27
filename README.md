@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋
+ ### Hi there 👋
 
 **Hridoy-Jomadder/Hridoy-Jomadder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
 <h1 align="center">Hi 👋, I'm Hridoy Jomadder</h1>
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
 
