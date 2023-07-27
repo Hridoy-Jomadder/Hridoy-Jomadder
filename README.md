@@ -1,17 +1,3 @@
- ### Hi there 👋
-
-**Hridoy-Jomadder/Hridoy-Jomadder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
 <h1 align="center">Hi 👋, I'm Hridoy Jomadder</h1>
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
 
@@ -21,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Star**
 
-- 👨‍💻 All of my projects are available at [https://www.freelancerhridoyjomadder.com/](https://www.freelancerhridoyjomadder.com/)
+- 👨‍💻 All of my projects are available at [Hridoy Jomadder](https://www.hridoyjomadder.com/)
 
 - 📫 How to reach me **contacthridoyjomadder@gmail.com**
 
