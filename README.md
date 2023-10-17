@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Star**
 
-- 👨‍💻 All of my projects are available at [Hridoy Jomadder](https://www.hridoyjomadder.com/)
+- 👨‍💻 All of my projects are available at [Hridoy Jomadder](https://hridoy-jomadder.github.io/portfolio)
 
 - 📫 How to reach me **contacthridoyjomadder@gmail.com**
 
