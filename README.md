@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=Hridoy-Jomadder)
 [![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)](https://wakatime.com/@your-wakatime-username)
 
