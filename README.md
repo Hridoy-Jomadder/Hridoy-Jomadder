@@ -1,3 +1,7 @@
+![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/your-username)
+
+
 <img src="https://github.com/Hridoy-Jomadder/Hridoy-Jomadder/blob/main/dev.gif">
 <h1 align="center">Hi 👋, I'm Hridoy Jomadder</h1>
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
