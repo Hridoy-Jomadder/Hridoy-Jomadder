@@ -1,4 +1,4 @@
-<img src="[![dev](https://github.com/Hridoy-Jomadder/Hridoy-Jomadder/assets/79590693/06bbe3c1-d5d9-49b4-ac10-d2d8cd5b3b3f)](https://github.com/Hridoy-Jomadder/Hridoy-Jomadder/blob/main/dev.gif)">
+<img src="https://github.com/Hridoy-Jomadder/Hridoy-Jomadder/blob/main/dev.gif">
 <h1 align="center">Hi 👋, I'm Hridoy Jomadder</h1>
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
 
