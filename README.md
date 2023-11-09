@@ -12,10 +12,6 @@
 
 - 📫 How to reach me **contacthridoyjomadder@gmail.com**
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Hridoy-Jomadder)
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/Hridoy-Jomadder)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)](https://wakatime.com/@Hridoy-Jomadder)
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridoy-jomadder&show_icons=true&locale=en" alt="hridoy-jomadder" /></p>
 
