@@ -1,6 +1,6 @@
 <img src="https://github.com/Hridoy-Jomadder/Hridoy-Jomadder/blob/main/line-neon.gif" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);">
 
-<img src="https://github.com/Hridoy-Jomadder/Hridoy-Jomadder/blob/main/dev.gif">
+<!-- <img src="https://github.com/Hridoy-Jomadder/Hridoy-Jomadder/blob/main/dev.gif"> -->
 <img src="https://github.com/Hridoy-Jomadder/Hridoy-Jomadder/blob/main/code.gif">
 
 <h1 align="center">Hi 👋, I'm Hridoy Jomadder</h1>
