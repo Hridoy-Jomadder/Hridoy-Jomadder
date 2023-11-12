@@ -6,6 +6,11 @@
 
 <h1 align="center">Hi 👋, I'm Hridoy Jomadder</h1>
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
+<p>I am a fast learner and eager to explore new technologies. An advocate of agile Web development, Web design, teamwork, and clean code. Able and ready to think outside the box.<br>
+
+I'm a well-organized person very passionate and dedicated to my work. I'm used to always finishing my work until the end.<br>
+
+I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.</p>
 
 - 🔭 I’m currently working on **Star**
 
