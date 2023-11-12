@@ -1,4 +1,4 @@
-<img src="https://github.com/Hridoy-Jomadder/Hridoy-Jomadder/blob/main/line-neon.gif">
+<img src="https://github.com/Hridoy-Jomadder/Hridoy-Jomadder/blob/main/line-neon.gif" style="width: auto;">
 
 <img src="https://github.com/Hridoy-Jomadder/Hridoy-Jomadder/blob/main/dev.gif">
 <h1 align="center">Hi 👋, I'm Hridoy Jomadder</h1>
